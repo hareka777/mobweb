@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidWallet</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="save">Save</string>
+    <string name="income">INCOME</string>
+    <string name="expense">EXPENSE</string>
+    <string name="warn_message">Üresek a mezők!</string>
+    <string name="hello">""</string>
+    <string name="order_placed">Order placed!</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="title_activity_s">S</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
