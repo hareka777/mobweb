@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidWallet</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="save">Save</string>
+    <string name="income">INCOME</string>
+    <string name="expense">EXPENSE</string>
+    <string name="warn_message">Üresek a mezők!</string>
+    <string name="hello">""</string>
+    <string name="order_placed">Order placed!</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="title_activity_s">S</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Terms and Conditions\n</string>
+    <string name="by_clicking_on_confirm_order_button_you_accept_our_terms_and_conditions_you_can_learn_more_by_paging_here">By clicking on Confirm Order button you accept our Terms and Conditions(you can learn more by paging here)</string>
+    <string name="title_activity_checkout">Checkout</string>
+
+
+</resources>
